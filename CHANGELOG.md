@@ -1,3 +1,12 @@
+# Estando en la rama 'main' con los últimos cambios
+git tag v1.1.0
+
+# Subir la etiqueta al repositorio remoto
+git push origin v1.1.0
+
+
+
+
 # Registro de Cambios
 
 ## [v1.1.0] - 2025-06-05
