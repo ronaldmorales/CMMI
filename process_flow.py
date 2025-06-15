@@ -11,11 +11,11 @@ def ciclo_vida_microservicio():
         "Pruebas",
         "Integración",
         "Entrega"
-    ] [cite: 4]
+    ] 
 
     print("Iniciando ciclo de vida del microservicio:")
     for fase in fases:
-        print(f"Fase actual: {fase}") [cite: 4]
+        print(f"Fase actual: {fase}") 
 
 # Se llama a la función para ejecutar el flujo
 ciclo_vida_microservicio()
