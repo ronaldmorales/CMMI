@@ -1,3 +1,22 @@
+Iniciando ciclo de vida del microservivio:
+Fase actual: Análisis de requisitos
+Fase actual: Diseño técnico
+Fase actual: Implementación 
+Fase actual: Pruebas
+Fase actual: Integración
+Fase actual: Entrega
+
+
+
+
+
+
+
+
+
+
+
+
 # process_flow.py
 
 def ciclo_vida_microservicio():
